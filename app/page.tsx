@@ -27,7 +27,7 @@ export default function Home() {
           </div>
       </div>
 
-      <div>
+      <div className="mb-36">
         <h1 className='text-center 2xl:text-[65px] sm:text-[58px] text-[50px] font-extrabold mb-9'>Servicios</h1>
           <div className="flex flex-rowflex xl:flex-row flex-col gap-36 relative z-0 max-w-[1440px] mx-auto justify-center">
           <div className="max-w-sm rounded overflow-hidden shadow-lg">

@@ -85,6 +85,17 @@
   @apply relative xl:w-full w-[90%] xl:h-full h-[590px] z-0;
 }
 
+/* END: About styles */
+
+/* START: Login styles */
+
+.login__title {
+  @apply 2xl:text-[50px] sm:text-[64px] text-[50px] font-extrabold ml-20;
+}
+
+.login__subtitle {
+  @apply text-[23px] text-black-100 font-light mt-5 ml-14;
+}
 
 /* START: Home styles */
 
