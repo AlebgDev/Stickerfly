@@ -8,8 +8,9 @@ function Testimonials() {
           <figure className="mt-10">
             <blockquote className="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
               <p>
-                “Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias
-                molestiae. Numquam corrupti in laborum sed rerum et corporis.”
+              "Como profesional del sector de la salud, valoro enormemente el servicio de reparación y mantenimiento de equipos médicos que ofrece esta empresa. 
+              La tranquilidad de saber que mis dispositivos están en manos de técnicos altamente capacitados y especializados, me brinda la confianza necesaria para centrarme en brindar la mejor atención a mis pacientes. 
+              La atención personalizada, la eficiencia en las reparaciones y la profesionalidad en cada paso del proceso hacen que recomiende sin dudarlo este servicio a mis colegas de la industria médica. ¡Gracias por su excelente trabajo y compromiso con la calidad!"
               </p>
             </blockquote>
             <figcaption className="mt-10">
@@ -23,7 +24,7 @@ function Testimonials() {
                 <svg viewBox="0 0 2 2" width={3} height={3} aria-hidden="true" className="fill-gray-900">
                   <circle cx={1} cy={1} r={1} />
                 </svg>
-                <div className="text-gray-600">CEO of Workcation</div>
+                <div className="text-gray-600">CEO de Workcation</div>
               </div>
             </figcaption>
           </figure>

@@ -23,19 +23,19 @@ function login() {
 
         <div className='w-full flex flex-col max-w-[550px]'>
         <div className='w-full flex flex-col mb-2'>
-          <h3 className='text-3xl font-semibold mb-2'>Login</h3>
+          <h3 className='text-3xl font-semibold mb-2'>Ingresar</h3>
           <p className='text-base mb-2'>Bienvenivo devuelta, por favor ingresa tus datos</p>
         </div>
 
         <div className='w-full flex flex-col'>
           <input
             type="email"
-            placeholder='Email'
+            placeholder='Correo electrónico'
             className='w-full text-black py-2 my-2 bg-transparent border-b border-black outline-none focus:outline-none'
           />
           <input
             type="password"
-            placeholder='Password'
+            placeholder='Contraseña'
             className='w-full text-black py-2 my-2 bg-transparent border-b border-black outline-none focus:outline-none'
           />
         </div>
@@ -43,7 +43,7 @@ function login() {
         <div className='w-full flex items-center justify-between'>
           <div className='w-full flex items-center'>
             <input type="checkbox" className='w-4 h-4 mr-2' />
-            <p className='text-sm'>Recuerdame por 30 dias</p>
+            <p className='text-sm'>Visualizar Contraseña</p>
           </div>
 
         <p className='text-sm font-medium whitespace-nowrap curso-pointer underline-offset-2'>¿Olvidó su contraseña?</p>
@@ -62,7 +62,7 @@ function login() {
 
 
         <div className='w-full'>
-          <p className='text-sm font-normal text-[#060606]'>No tienes cuenta? <span className='font-semibold underline underline-offset-2 cursor-pointer'>Registrate</span></p>
+          <p className='text-sm font-normal text-[#060606]'>¿No tienes cuenta? <span className='font-semibold underline underline-offset-2 cursor-pointer'>Registrate</span></p>
         </div>
 
       </div>

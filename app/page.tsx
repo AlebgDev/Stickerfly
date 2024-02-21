@@ -22,7 +22,7 @@ export default function Home() {
               <p className='about__subtitle'>
               Somos una empresa especializada en la reparación y mantenimiento de equipos de medicina, 
               comprometidos con la excelencia y la satisfacción del cliente. Con años de experiencia en el sector, 
-              nuestro equipo de técnicos altamente capacitados y certificados se encarga de garantizar que sus equipos funcionen de manera óptima y segura.
+              donde nuestro equipo de técnicos altamente capacitados y certificados se encarga de garantizar que sus equipos funcionen de manera óptima y segura.
               </p>
           </div>
       </div>
@@ -31,11 +31,11 @@ export default function Home() {
         <h1 className='text-center 2xl:text-[65px] sm:text-[58px] text-[50px] font-extrabold mb-9'>Servicios</h1>
           <div className="flex flex-rowflex xl:flex-row flex-col gap-36 relative z-0 max-w-[1440px] mx-auto justify-center">
           <div className="max-w-sm rounded overflow-hidden shadow-lg">
-            <Image src="/Mantenimiento.jpg" alt="card" width={580} height={480} />
+            <Image src="/Maquina.jpg" alt="card" width={580} height={480} />
             <div className="px-6 py-4">
               <div className="font-bold text-xl mb-2">Mantenimiento</div>
               <p className="text-gray-700 text-base">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                El mantenimiento de equipos garantiza el correcto funcionamiento, la seguridad y la fiabilidad de los dispositivos y maquinaria utilizados en entornos médicos.
               </p>
             </div>
             <CustomButton
@@ -49,7 +49,7 @@ export default function Home() {
             <div className="px-6 py-4">
               <div className="font-bold text-xl mb-2">Reparación</div>
               <p className="text-gray-700 text-base">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla! Maiores et perferendis eaque, exercitationem praesentium nihil.
+                La reparación de equipos médicos permite identificar, diagnosticar y corregir los problemas o averías que puedan surgir en los dispositivos y maquinaria utilizados en entornos médicos.
               </p>
             </div>
             <CustomButton
