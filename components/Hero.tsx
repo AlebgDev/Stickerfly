@@ -12,8 +12,7 @@ const hero = () => {
     <div className='hero'>
         <div className='flex-1 pt-36 padding-x'>
             <h1 className='hero__title'>
-                Repara y manten tus instrumentos de medicina al dia 
-                - ¡Rapido y facilmente!
+                VITALFIX Innovación y fiabilidad se unen en cada reparación y mantenimiento.
             </h1>
             <p className='hero__subtitle'>
                 Solicita mantenimiento y reparacion de todos tus equipos medicos 
